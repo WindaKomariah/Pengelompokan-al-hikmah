@@ -1,5 +1,8 @@
 streamlit
-pandas 
-sckit-learn
-kmodes 
-openpyxl
+pandas
+numpy
+scikit-learn # Ini untuk sklearn
+kmodes
+fpdf
+matplotlib
+seaborn
